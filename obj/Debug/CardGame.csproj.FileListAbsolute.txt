@@ -1,0 +1,6 @@
+F:\ITStep\2 курс\C#\Домашная робота\CardGame\bin\Debug\CardGame.exe.config
+F:\ITStep\2 курс\C#\Домашная робота\CardGame\bin\Debug\CardGame.exe
+F:\ITStep\2 курс\C#\Домашная робота\CardGame\bin\Debug\CardGame.pdb
+F:\ITStep\2 курс\C#\Домашная робота\CardGame\obj\Debug\CardGame.csprojAssemblyReference.cache
+F:\ITStep\2 курс\C#\Домашная робота\CardGame\obj\Debug\CardGame.exe
+F:\ITStep\2 курс\C#\Домашная робота\CardGame\obj\Debug\CardGame.pdb
